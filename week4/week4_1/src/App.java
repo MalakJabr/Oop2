@@ -1,5 +1,5 @@
-public class Test {
-    public static void main(String[] args) {
+public class App {
+    public static void main(String[] args) throws Exception {
         A a = new A();
         a.m1();
         a.hello();
